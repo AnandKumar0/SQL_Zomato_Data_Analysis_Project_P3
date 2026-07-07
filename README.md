@@ -100,6 +100,7 @@ ADD CONSTRAINT fk_deliveries_riders
 FOREIGN KEY (rider_id) REFERENCES riders(rider_id);
 ```
 
+
 ### 2. Exploratory Data Analysis (EDA)
 
 Basic row counts across all five tables.
