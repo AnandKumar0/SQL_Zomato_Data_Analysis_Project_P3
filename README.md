@@ -99,7 +99,7 @@ ALTER TABLE deliveries
 ADD CONSTRAINT fk_deliveries_riders
 FOREIGN KEY (rider_id) REFERENCES riders(rider_id);
 ```
-
+![ER Diagram](screenshot 2026-07-07 1701705.png)
 
 ### 2. Exploratory Data Analysis (EDA)
 
