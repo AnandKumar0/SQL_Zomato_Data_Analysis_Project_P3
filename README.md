@@ -100,7 +100,7 @@ ADD CONSTRAINT fk_deliveries_riders
 FOREIGN KEY (rider_id) REFERENCES riders(rider_id);
 ```
 **Entity Relationship Diagram (ERD)**
-![ER Diagram](Screenshot 2026-07-07 170705.png)
+![ER Diagram]([Screenshot 2026-07-07 170705.png](https://github.com/AnandKumar0/SQL_Zomato_Data_Analysis_Project_P3/blob/main/Screenshot%202026-07-07%20170705.png))
 ### 2. Exploratory Data Analysis (EDA)
 
 Basic row counts across all five tables.
